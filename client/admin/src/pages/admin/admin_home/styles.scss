@@ -1,0 +1,57 @@
+$row_gap :15px;
+$widgetItem_column_gap: 50px;
+$page_gap: 12px;
+
+
+
+.homepages
+{
+    min-width: 100%;
+    max-height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 16px 0px;
+
+    .pages_title
+    {
+        font-weight: 700 !important;
+        text-transform: uppercase;
+        margin-bottom: 8px;
+        font-size: 20px;
+    }
+
+    &_container
+    {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: $page_gap;
+
+        .homepages_first
+        {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: $row_gap;
+
+            .widgets
+            {
+                display: flex;
+                justify-content: space-between;
+                gap: $widgetItem_column_gap;
+            }
+        }
+
+        .homepages_second
+        {}
+
+        .recentAct
+        {}
+
+    }
+
+
+
+
+}

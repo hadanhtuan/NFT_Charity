@@ -1,0 +1,22 @@
+.homepages
+{
+    .homepages__container
+    {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        .container_left
+        {
+            display: flex;
+            align-items: center;
+        }
+    }
+
+    .campaign_data
+    {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+    }
+}
