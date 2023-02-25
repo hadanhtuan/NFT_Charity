@@ -11,14 +11,14 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/VHNhat/framework_IS220.M11.HTCL_2"><strong>Khám phá »</strong></a>
+    <a href="https://github.com/hadanhtuan/NFT_Charity"><strong>Khám phá »</strong></a>
     <br />
     <br />
     <a href="#giaodien">Xem Demo</a>
     ·
     <a href="https://github.com/hadanhtuan/NFT_Charity/issues">Báo lỗi</a>
     ·
-    <a href="https://github.com/hadanhtuan/NFT_Charity/  issues">Các yêu cầu</a>
+    <a href="https://github.com/hadanhtuan/NFT_Charity/issues">Các yêu cầu</a>
   </p>
 </div>
 
@@ -41,15 +41,6 @@
     <li>
       <a href="#giaodien">Giao diện</a>
     </li>
-    <li><a href="#yeucau">Yêu cầu hệ thống</a></li>
-    <li>
-      <a href="#caidat">Cài đặt và sử dụng</a>
-      <ul><a href="#setup">Setup môi trường</a></ul>
-      <ul><a href="#start">Khởi động dự </a></ul>
-    </li>
-    <li><a href="#lienhe">Liên hệ</a></li>
-    <li><a href="#banquyen">Bản quyền</a></li>
-    <li><a href="#thamkhao">Tài liệu tham khảo</a></li>
   </ol>
 </details>
 
@@ -61,7 +52,7 @@
 Đây là project của môn học Xây dựng hệ thống thông tin trên các Framework. NFT Charity Là một nền tảng giúp cho các doanh nghiệp, tổ chức từ thiện có nhu cầu khởi động chiến dịch từ thiện và kêu gọi đóng góp đến mọi người trên toàn thế giới bằng hình thức đấu giá NFT. Người dùng có thể tạo và quản lý NFT, tham gia đấu giá đồng thời quản lý các giao dịch trên nền tảng này.
 
 <h4>Phạm vi</h4>
--	Hiểu biết tổng quát về quy trình phát triển ứng dụng web
+-	Hiểu biết tổng quát về quy trình phát triển ứng dụng web.<br>
 -	Phạm vi nghiên cứu giới hạn ở việc chỉ có thể tạo NFT, giao dịch coin ETH và mua bán NFT bằng ETH ở mạng Ethereum.
 
 <h4>Đối tượng sử dụng</h4>
@@ -73,7 +64,7 @@
 |:--:|----------------|------------------------|----------------------------------------------------|-----------|-----------------|
 | 1  | Hà Danh Tuấn       | 20522109 |[Hà Tuấn](https://www.facebook.com/danhtu.ha.5)         |0936225132 |Trưởng nhóm      |
 | 2  | Phạm Quang Hòa        | 20520995 |[Quang Hòa](https://www.facebook.com/hoapham.Z)           | |Code frontend    |
-| 3  | Trần Quốc Bảo     | 2052 |[Quốc Bảo](https://www.facebook.com/TheBlueStarZ) | |Code backend   |    
+| 3  | Trần Quốc Bảo     | 20521110 |[Quốc Bảo](https://www.facebook.com/TheBlueStarZ) | |Code backend   |    
 
 
 ## <h2 id="framework">3. Các công nghệ sử dụng</h2>
@@ -157,16 +148,3 @@ Trang web được xây dựng bởi các thư viện, framework hiện đại:
 
 
 
-## <h2 id="lienhe">Liên hệ</h2>
-
-Hà Danh Tuấn
-
-Project Link: [https://github.com/VHNhat/framework_IS220.M11.HTCL_2) </br>
-Email: [Nhật](mailto:nhatvh.work@gmail.com)
-
-# <h2 id="banquyen">Bản quyền</h3>
-Copyright © 2023, [H&N ](https://github.com/hadanhtuan/NFT_Charity).
-# <h2 id="thamkhao">Tài liệu tham khảo</h2> 
-- https://www.w3schools.com/
-- https://www.reactjs.org/
-- https://dotnet.microsoft.com/learn/aspnet/hello-world-tutorial/intro
